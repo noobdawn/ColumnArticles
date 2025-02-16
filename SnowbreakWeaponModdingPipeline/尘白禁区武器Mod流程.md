@@ -434,3 +434,6 @@ def copy_and_pack(kwargs):
         shutil.copyfile(os.path.join(unrealpak_dir, weapon_name + ".pak"), os.path.join(mod_dir, weapon_name + ".pak"))
 ```
 
+# Houdini工程及HDA
+
+参见：https://github.com/noobdawn/ColumnArticles/tree/main/SnowbreakWeaponModdingPipeline
